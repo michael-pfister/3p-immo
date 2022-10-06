@@ -9,13 +9,13 @@ export const projects: Project[] = [
   {
     title: "Aktuelles Projekt",
     description: "Zwei Stadtvillen mit jeweils zwei Wohneinheiten",
-    imageLink: "/City buildings_Isometric.svg",
+    imageLink: "/pexels-expect-best-323780.webp",
     location: "Ulmenstraße (Siedlung Koron), 1040 Wien",
   },
   {
-    title: "Anderes Projekt",
-    description: "Zwei Stadtvillen mit jeweils zwei Wohneinheiten",
-    imageLink: "/City buildings_Isometric.svg",
-    location: "Ulmenstraße (Siedlung Koron), 1040 Wien",
+    title: "Wohnblock in Straßburg",
+    description: "Hochwertige Wohnungen in guter Lage mit Ausblick auf den Rhein",
+    imageLink: "/pexels-dom-j-303059.webp",
+    location: "Rue du Rhin Napoléon, 67000 Strasbourg, Frankreich",
   },
 ];
