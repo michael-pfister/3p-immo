@@ -14,15 +14,15 @@ const navigationLinks = [
   },
   {
     title: "Projekte",
-    link: "#projects",
+    link: "/#projects",
   },
   {
     title: "Über uns",
-    link: "#aboutUs",
+    link: "/#aboutUs",
   },
   {
     title: "Kontakt",
-    link: "#contact",
+    link: "/#contact",
   },
 ];
 
