@@ -1,6 +1,6 @@
 export default function Impressum() {
   return (
-    <section class="p-4 flex flex-col justify-center md:flex-row md:justify-evenly flex-wrap items-center gap-8 min-h-[calc(100vh-96px-136px)] md:min-h-[calc(100vh-96px-88px)]">
+    <section class="p-2 flex flex-col justify-center md:flex-row md:justify-evenly flex-wrap items-center gap-8 min-h-[calc(100vh-96px-136px)] md:min-h-[calc(100vh-96px-88px)]">
       <h2 class="text-brown text-2xl">Impressum</h2>
       <table class="my-4">
         <tbody>

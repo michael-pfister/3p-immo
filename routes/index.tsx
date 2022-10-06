@@ -5,7 +5,7 @@ function Hero() {
   return (
     <section class="flex flex-col md:flex-row justify-evenly items-center my-16 md:my-32 px-8 lg:px-32 gap-16">
       <h1 class="text-5xl lg:text-7xl text-center">
-        Der Goldene Standard für Immobilien.
+        Der Goldene Standard für Immobilien
       </h1>
       <img class="" src="/City buildings_Isometric.svg" alt="Gebäude" />
     </section>

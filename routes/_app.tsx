@@ -8,7 +8,7 @@ export default function App({ Component }: AppProps) {
     <>
       <Head>
         <title>3P Immobilienentwicklung GmbH</title>
-        <meta name="description" content="3P Immobilienentwicklung GmbH" />
+        <meta name="description" content="Ihr Ansprechpartner für qualitativ hochwertige Immobilien" />
         <link rel="icon" href="logo.svg" />
       </Head>
       <header>
