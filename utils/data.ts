@@ -7,7 +7,7 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    title: "Aktuelles Projekt",
+    title: "Apartments in Wien",
     description: "Zwei Stadtvillen mit jeweils zwei Wohneinheiten",
     imageLink: "/pexels-expect-best-323780.webp",
     location: "Ulmenstraße (Siedlung Koron), 1040 Wien",
